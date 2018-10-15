@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
   <head>
 
@@ -133,7 +133,7 @@ La densità media della Terra è di 5,515 g/cm³, rendendolo il pianeta più den
 <th>Formula</th>
 <th>Percentuale</th>
 
-</tr>
+
 
 <tbody>
 
@@ -148,7 +148,7 @@ La densità media della Terra è di 5,515 g/cm³, rendendolo il pianeta più den
 <td>Al<sub>2</sub>O<sub>3</td>
 <td>15,41%</td>
 
-</tr>
+
 
 <tr>
 <td>Ossido di calco</td>
@@ -160,21 +160,21 @@ La densità media della Terra è di 5,515 g/cm³, rendendolo il pianeta più den
 <td>Ossido di magnesio</td>
 <td>MgO<sub></td>
 <td>4,36%</td>
-</tr>
+
 
 
 <tr>
 <td>Ossido di sodio</td>
 <td>N<sub>a2</sub>O</td>
 <td>3,55%</td>
-</tr>
+
 
 
 <tr>
 <td>Ossido di ferro</td>
 <td>FeO<sub></td>
 <td>3,52%</td>
-</tr>
+
 
 
 
@@ -182,7 +182,7 @@ La densità media della Terra è di 5,515 g/cm³, rendendolo il pianeta più den
 <td>Ossido di potassio</td>
 <td>K<sub>2</sub>O</td>
 <td>2,80%</td>
-</tr>
+
 
 
 
@@ -190,7 +190,7 @@ La densità media della Terra è di 5,515 g/cm³, rendendolo il pianeta più den
 <td>Triossido di ferro</td>
 <td>Fe<sub>2</sub>O<sub>3</sub></td>
 <td>2,80%</td>
-</tr>
+
 
 
 <tr>
@@ -203,13 +203,13 @@ La densità media della Terra è di 5,515 g/cm³, rendendolo il pianeta più den
 <td>Diossido di titanio</td>
 <td>TiO<sub>2</td>
 <td>0,60%</td>
-</tr>
+
 
 <tr>
 <td>Anidride fosforica</td>
 <td>P<sub>2</sub>O<sub></sub>5</td>
 <td>2,80%</td>
-</tr>
+
 
 
 <th colspan="2">Totale</th>
@@ -217,14 +217,14 @@ La densità media della Terra è di 5,515 g/cm³, rendendolo il pianeta più den
 
 
 
-</tbody>
 
 
 
 
 
-</thead>
-</table>
+
+
+
 
 
 <hr>
@@ -251,12 +251,10 @@ La densità media della Terra è di 5,515 g/cm³, rendendolo il pianeta più den
 
 
 
-
-    </body>
-
+    
 
 
 
 
 
-</html>
+
