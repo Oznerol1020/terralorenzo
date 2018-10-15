@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=devide-width, initial-scale=1"/>
     <style>
 body{
-  background: black;
+  background: url("http://hdqwalls.com/wallpapers/nebula-stars-universe-galaxy-space-4k-kx.jpg");
   color: white;
 }
 img{
