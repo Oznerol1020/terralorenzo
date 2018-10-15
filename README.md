@@ -16,6 +16,7 @@ margin-right: auto;
 }
 table{
   color: blue;
+  border: 0;
 }
 
 
