@@ -10,13 +10,19 @@ body{
   color: white;
 }
 img{
-display: block;
-margin-left: auto;
-margin-right: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
 }
 table{
   color: blue;
   border: 0;
+}
+iframe{
+
+
+
 }
 
 
@@ -26,8 +32,12 @@ table{
     <body>
 
       <h1> Ciao a tutti! </h1>
-      <h2> Alcune informazioni riguardante il nostro pianeta! </h2>
-      <img src="terra.jpg">
+      <h2> Alcune informazioni riguardanti il nostro pianeta! </h2>
+      <img src="terra.jpg" align="middle" >
+
+       <iframe width="560" height="315" src="https://www.youtube.com/embed/2ku5nJlp8jA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen align="right"></iframe>
+
+
       <p> La Terra è il terzo pianeta in ordine di distanza dal Sole e il più grande dei pianeti terrestri del sistema solare, sia per massa sia per diametro.
 
 È il luogo primigenio degli esseri umani e nel quale vivono tutte le specie viventi conosciute, l'unico corpo planetario del sistema solare adatto a sostenere la vita come da noi concepita e conosciuta. Sulla sua superficie, si trova acqua in tutti e tre gli stati (solido, liquido e gassoso) e un'atmosfera composta in prevalenza d'azoto e ossigeno che, insieme al campo magnetico che avvolge il pianeta, protegge la Terra dai raggi cosmici e dalle radiazioni solari.
@@ -114,7 +124,7 @@ La densità media della Terra è di 5,515 g/cm³, rendendolo il pianeta più den
 
 <hr>
 
-<table border="0.5">
+<table border="1">
 <thead>
 
 <tr>
@@ -239,6 +249,9 @@ La densità media della Terra è di 5,515 g/cm³, rendendolo il pianeta più den
 
 
 
+
+
+
     </body>
 
 
@@ -247,4 +260,3 @@ La densità media della Terra è di 5,515 g/cm³, rendendolo il pianeta più den
 
 
 </html>
-
