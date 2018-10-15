@@ -141,7 +141,7 @@ La densità media della Terra è di 5,515 g/cm³, rendendolo il pianeta più den
 <td>Diossido di silicio</td>
 <td>SiO<sub>2</td>
 <td>59,71%</td>
-</tr>
+
 
 <tr>
 <td>Ossido d'alluminio</td>
@@ -154,7 +154,6 @@ La densità media della Terra è di 5,515 g/cm³, rendendolo il pianeta più den
 <td>Ossido di calco</td>
 <td>CaO<sub></td>
 <td>4,90%</td>
-</tr>
 
 <tr>
 <td>Ossido di magnesio</td>
