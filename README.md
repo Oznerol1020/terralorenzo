@@ -33,7 +33,7 @@ iframe{
 
       <h1> Ciao a tutti! </h1>
       <h2> Alcune informazioni riguardanti il nostro pianeta! </h2>
-      <img src="terra.jpg" align="middle" >
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Earth_Eastern_Hemisphere.jpg/260px-Earth_Eastern_Hemisphere.jpg" align="middle" >
 
        <iframe width="560" height="315" src="https://www.youtube.com/embed/2ku5nJlp8jA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen align="right"></iframe>
 
