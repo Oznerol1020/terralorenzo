@@ -14,6 +14,9 @@ display: block;
 margin-left: auto;
 margin-right: auto;
 }
+table{
+  color: black;
+}
 
 
     </style>
