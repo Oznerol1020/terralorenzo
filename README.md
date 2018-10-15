@@ -210,7 +210,7 @@ La densità media della Terra è di 5,515 g/cm³, rendendolo il pianeta più den
 <td>2,80%</td>
 
 
-
+<tr>
 <th colspan="2">Totale</th>
 <th>99,22%</th>
 
